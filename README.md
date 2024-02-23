@@ -85,7 +85,7 @@ If you are an Advanced user and you have used Arch Linux, then you are good to g
 |    Build Type   |      Official        |
 |     Current Build Status    |      Early-Alpha        |
 | ROM Status | Continued |
-| Author | Manav Harsana (Ragedpixel) |
+| Author | Manav Harsana |
 
 
 ### How to Download Source Codes?
